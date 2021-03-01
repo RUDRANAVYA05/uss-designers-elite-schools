@@ -1,0 +1,22 @@
+.box{
+	border: 1px solid black;
+	width: 100%;
+}
+
+.boxbar{
+	border: 1px solid black;
+	padding: 10px;
+	background-color: black;
+	padding-bottom: 30px;
+}
+.boxbar address a{
+	float: left;
+	text-decoration: none;
+	color: white;
+}
+.boxbar i{
+	float: right;
+	color: white;
+	width: 30px;
+	
+}
